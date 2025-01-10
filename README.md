@@ -1,4 +1,4 @@
-![](https://giphy.com/stickers/thecodingspacerd-technology-thecodingspace-codingspace-Tgw604MyLJnDtbi4t0)
+![Coding](https://4kwallpapers.com/images/walls/thumbs_3t/13640.png)
 
 ---
 ### **1️⃣ Array** 
