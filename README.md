@@ -11,7 +11,7 @@
 | **Item** | **<font color="#f79646"><u>Elements We Need To Insert into Array</u></font>** |
 
 ---
-##### **Insertion Operation ** 
+##### Insertion Operation 
 ```cpp
 #include <iostream>
 
@@ -58,7 +58,7 @@ int main()
 }
 ```
 ---
-###### **Deletion Operation  **
+###### **Deletion Operation**
 ```cpp
 #include <iostream>
 using namespace std;
@@ -98,7 +98,7 @@ int main()
 
 ```
 ---
-###### **Search Operation **
+###### **Search Operation**
 ```cpp
 #include <iostream>
 using namespace std;
@@ -153,7 +153,7 @@ int main()
 ```
 
 ---
-###### **Update Operation **
+###### **Update Operation**
 
 ```cpp
 #include <iostream>
